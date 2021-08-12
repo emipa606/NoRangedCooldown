@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>No Ranged Cooldown</name>
+  <author>Squidd</author>
+  <packageId>squid.nrcd</packageId>
+  <supportedVersions>
+    <li>1.1</li>
+  </supportedVersions>
+  <description>v0.2
+    Removes the cooldown from all ranged weapons and tweaks some weapons in minor ways to improve the pace and feel of combat.
+		</description>
+</ModMetaData>
