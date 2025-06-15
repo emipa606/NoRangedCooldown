@@ -1,5 +1,8 @@
 # Changelog for NoRangedCooldown
 
+1.6.1 - Excludes the Mini-Turret Pack backpack from VAE Accessories
+
+
 1.6.0 - Mod updated for 1.6 and passed autotests
 
 

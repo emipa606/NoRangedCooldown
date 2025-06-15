@@ -2,7 +2,7 @@
 <Patch>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
-    <xpath>/Defs/ThingDef/statBases/RangedWeapon_Cooldown</xpath>
+    <xpath>/Defs/ThingDef[not(defName="VAEA_Apparel_MiniTurretPack")]/statBases/RangedWeapon_Cooldown</xpath>
     <value>
       <RangedWeapon_Cooldown>0</RangedWeapon_Cooldown>
     </value>
